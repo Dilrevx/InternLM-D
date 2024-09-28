@@ -1,7 +1,8 @@
 # InternLM-D
 Not yet decided what to include. meow~.
 
-The official InternLM [repo](https://github.com/InternLM/Tutorial)
+---
+The official InternLM is at [repo](https://github.com/InternLM/Tutorial)
 
 Scan QRCode, contact TAs, and earn free A100! (A100 chunks though)
 
