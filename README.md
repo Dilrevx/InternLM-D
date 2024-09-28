@@ -6,7 +6,7 @@ The official InternLM is at [repo](https://github.com/InternLM/Tutorial)
 
 Scan QRCode, contact TAs, and earn free A100! (A100 chunks though)
 
-A Bottle152 RAG agent is available by accessing [moegirl wiki](zh.moegirl.cn)
+A Bottle152 RAG agent is available by accessing [moegirl wiki](https://zh.moegirl.cn)
 
 ----
 
